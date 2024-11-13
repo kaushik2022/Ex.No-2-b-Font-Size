@@ -158,7 +158,6 @@ public class MainActivity extends AppCompatActivity {
     android:textSize="25sp" />
     </LinearLayout>
 ```
-
 ## Output:
 ![Screenshot 2024-09-09 145347](https://github.com/user-attachments/assets/309c9042-dc72-46c7-b409-10ddde569f0c)
 ## Result:
